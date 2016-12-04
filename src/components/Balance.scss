@@ -1,0 +1,13 @@
+.balance-box {
+  text-align: center;
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+
+  .balance {
+    display: inline-block;
+    background: #5eab59;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #4a9045;
+  }
+}
